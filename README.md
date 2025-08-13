@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me<br>Engineer at @Avex Inc | Fullstack Developer with a passion for creating reliable, high-performance web applications. I focus on blending modern technologies with clean architecture to deliver solutions that truly make a difference.<br><br> What drives me<br><br>Crafting software that solves real-world challenges<br><br>Building intuitive and engaging user experiences<br><br>Continuously exploring emerging tools and frameworks<br><br>Contributing to projects that inspire collaboration and learning<br><br>
+About Me<br>Fullstack Developer & Engineer E. with a passion for creating reliable, high-performance web applications. I focus on blending modern technologies with clean architecture to deliver solutions that truly make a difference.<br><br> What drives me<br><br>Crafting software that solves real-world challenges<br><br>Building intuitive and engaging user experiences<br><br>Continuously exploring emerging tools and frameworks<br><br>Contributing to projects that inspire collaboration and learning<br><br>
 
 
 ## 🌐 Socials:

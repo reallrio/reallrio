@@ -1,3 +1,6 @@
+# 💫 About Me:
+About Me<br>Engineer at @Avex Inc | Fullstack Developer with a passion for creating reliable, high-performance web applications. I focus on blending modern technologies with clean architecture to deliver solutions that truly make a difference.<br><br> What drives me<br><br>Crafting software that solves real-world challenges<br><br>Building intuitive and engaging user experiences<br><br>Continuously exploring emerging tools and frameworks<br><br>Contributing to projects that inspire collaboration and learning<br><br>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/dMY6wn252H) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reallrioo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/__iiRio) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rio@avex.gg) 
